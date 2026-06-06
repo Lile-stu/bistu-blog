@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/博客的第一篇文章.md",
+                "file": "content/posts/学校官网.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "博客的第一篇文章"
+              "title": "学校官网"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "8c9d1b54c346165e",
   "lastOpenFiles": [
-    "Templates/Hugo-Post-Template.md",
+    "public/posts/school_name/index.md",
+    "public/posts/school_name/index.html",
+    "public/posts/school_name",
+    "static/robots.txt",
+    "content/posts/导航.md",
+    "content/posts/校区地图.md",
+    "content/posts/学校官网.md",
+    "content/posts/学校地址.md",
     "content/posts/博客的第一篇文章.md",
+    "Templates/Hugo-Post-Template.md",
     "public/posts/博客的第一篇文章/index.html",
     "public/posts/博客的第一篇文章",
     "public/js/config/a78038807d0a0ff26a684f12de9520a1.js",
