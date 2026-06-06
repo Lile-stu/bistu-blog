@@ -1,25 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>北信科校园博客</title>
-        <link>//localhost:1313/</link>
+        <link>https://bistublog.xyz/</link>
         <description>北京信息科技大学校园博客，由本校学生创建，非学校官方网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>lile.stu@qq.com (lile)</managingEditor>
             <webMaster>lile.stu@qq.com (lile)</webMaster><lastBuildDate>Fri, 05 Jun 2026 00:00:00 &#43;0000</lastBuildDate>
-            <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://bistublog.xyz/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>导航帖</title>
-    <link>//localhost:1313/posts/navigation/</link>
+    <link>https://bistublog.xyz/posts/navigation/</link>
     <pubDate>Fri, 05 Jun 2026 00:00:00 &#43;0000</pubDate>
     <author>lile.stu@qq.com (lile)</author>
-    <guid>//localhost:1313/posts/navigation/</guid>
+    <guid>https://bistublog.xyz/posts/navigation/</guid>
     <description><![CDATA[本页面用于对博客其他页面导航]]></description>
 </item>
 <item>
     <title>学校校区地址</title>
-    <link>//localhost:1313/posts/%E5%AD%A6%E6%A0%A1%E5%9C%B0%E5%9D%80/</link>
+    <link>https://bistublog.xyz/posts/%E5%AD%A6%E6%A0%A1%E5%9C%B0%E5%9D%80/</link>
     <pubDate>Fri, 05 Jun 2026 00:00:00 &#43;0000</pubDate>
     <author>lile.stu@qq.com (lile)</author>
-    <guid>//localhost:1313/posts/%E5%AD%A6%E6%A0%A1%E5%9C%B0%E5%9D%80/</guid>
+    <guid>https://bistublog.xyz/posts/%E5%AD%A6%E6%A0%A1%E5%9C%B0%E5%9D%80/</guid>
     <description><![CDATA[<div id="amap-container" style="width: 100%; height: 450px; margin: 20px 0; border-radius: 8px; border: 1px solid #ddd;"></div>
 
 <script type="text/javascript">
@@ -80,10 +80,10 @@
 </item>
 <item>
     <title>校区地图</title>
-    <link>//localhost:1313/posts/campus-map/</link>
+    <link>https://bistublog.xyz/posts/campus-map/</link>
     <pubDate>Fri, 05 Jun 2026 00:00:00 &#43;0000</pubDate>
     <author>lile.stu@qq.com (lile)</author>
-    <guid>//localhost:1313/posts/campus-map/</guid>
+    <guid>https://bistublog.xyz/posts/campus-map/</guid>
     <description><![CDATA[<h1 id="沙河校区">沙河校区</h1>
 <p>地图1：
 </p>
@@ -98,10 +98,10 @@
 </item>
 <item>
     <title>第一篇文章</title>
-    <link>//localhost:1313/2026/06/%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+    <link>https://bistublog.xyz/2026/06/%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
     <pubDate>Wed, 03 Jun 2026 12:00:00 &#43;0800</pubDate>
     <author>lile.stu@qq.com (lile)</author>
-    <guid>//localhost:1313/2026/06/%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+    <guid>https://bistublog.xyz/2026/06/%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
     <description><![CDATA[<p>用于测试各种功能</p>]]></description>
 </item>
 </channel>
