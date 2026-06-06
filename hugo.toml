@@ -209,7 +209,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
     #  自定义内容 (支持 HTML 格式)
 
-    custom = '本站非学校官网网站，所有内容请自行甄别'
+    custom = '本博客非学校官网网站，系在校学生自发创建，仅为新生和在校学生提供有限信息，具体内容请自行甄别。如想获得最准确的信息，请关注<a href="https://www.bistu.edu.cn/" target="_blank" style="color: #1890ff; text-decoration: underline;">北京信息科技大学官方网站</a>'
 
     #  是否显示 Hugo 和主题信息
 
@@ -221,7 +221,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
     #  是否显示作者
 
-    author = false
+    author = true
 
     # 网站创立年份
 
@@ -371,7 +371,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       #  主页显示的网站标题 (支持 HTML 格式)
 
-      title = "北京信息科技大学校园博客"
+      title = "北信科校园博客"
 
       # 主页显示的网站副标题 (允许 HTML 格式)
 
