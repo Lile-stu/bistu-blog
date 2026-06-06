@@ -8,3 +8,8 @@
 - **部署平台**：GitHub Pages
 - **加速服务**：Cloudflare
 - **域名**：bistublog.xyz
+
+### 仓库结构
+本仓库分为两个分支
+- `main` 分支：存放 Hugo 博客的完整源码、配置文件及 Markdown 文章。
+- `gh-pages` 分支：仅存放 `hugo` 编译生成的纯静态 HTML 网页文件。
