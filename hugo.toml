@@ -905,7 +905,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Permalinks 配置
 
 [permalinks]
-    posts = "/:year/:month/:contentbasename/"
+    posts = "/:year/:month/:filename/"
 
 
 
